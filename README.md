@@ -15,7 +15,7 @@ This application will allow the user to create and edit texts via a Progressive 
 ## Usage
 App is deployed via <a href="https://obscure-brook-99903.herokuapp.com/">Heroku.</a>
 
-TODO: Add screenshots.
+![App Screenshot](Screenshot.jpg)
 
 ----------------------------------------------------------------
 ## Contributors
