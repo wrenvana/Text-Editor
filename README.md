@@ -2,24 +2,18 @@
 ## Table of Contents
 ----------------------------------------------------------------
 - ## [Description](#Description)
-- ## [Installation](#Installation)
 - ## [Usage](#usage)
 - ## [Contributors](#Contributors)
-- ## [Testing](#Testing)
 - ## [License](#License)
 - ## [Username](#Username)
 - ## [Email](#Email)
 ----------------------------------------------------------------
 ## Description
-This application will allow the user to generate a professional README.md file based on input through Node.js. It serves as a useful template for future projects to ensure that the user's README files contain all of the necessary information.
-
-----------------------------------------------------------------
-## Installation
-Install Node.js if you do not already have it installed. Download the repository and use your command line program of choice. Type "npm install" into your command line program before running this program.
+This application will allow the user to create and edit texts via a Progressive Web App.
 
 ----------------------------------------------------------------
 ## Usage
-Type "node index.js" into your command line program once you have navigated to the README Generator program's directory. Answer the prompts to generate a README file.
+App is deployed via <a href="https://obscure-brook-99903.herokuapp.com/">Heroku.</a>
 
 TODO: Add screenshots.
 
