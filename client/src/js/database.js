@@ -29,7 +29,7 @@ export const getDb = async () => {
   //Connect to database
   const jateDb = await openDB("jate", 1);
   //Create transaction for the database
-  const tx = jateDb.transaction("jate", "readwrite");
+  const tx = jateDb.transaction("jate", "readonly");
   //Open object store
   const store = tx.objectStore("jate");
   //Pull all data
